@@ -24,7 +24,6 @@ loan_id,LoanType
 31,Auto
 32,Mortgage
 33,Auto
-119,Auto
 34,Personal
 35,Mortgage
 37,Mortgage
@@ -69,7 +68,6 @@ loan_id,LoanType
 84,Mortgage
 86,Personal
 87,Mortgage
-111,Auto
 88,Personal
 89,Mortgage
 90,Mortgage
@@ -86,6 +84,7 @@ loan_id,LoanType
 108,Mortgage
 109,Personal
 110,Personal
+111,Auto
 112,Mortgage
 113,Personal
 114,Auto
@@ -93,6 +92,7 @@ loan_id,LoanType
 116,Personal
 117,Mortgage
 118,Mortgage
+119,Auto
 120,Mortgage
 121,Mortgage
 122,Personal
