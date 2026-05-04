@@ -1,2 +1,6 @@
-pandas
-jupyter
+pandas==3.0.2
+numpy==2.4.4
+psycopg2-binary==2.9.12
+ipykernel==7.2.0
+jupyter_client==8.8.0
+jupyter_core==5.9.1
