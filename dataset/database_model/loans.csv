@@ -24,7 +24,6 @@ loan_id,LoanAmount,LoanType,StartDate_ID,EndDate_ID,InterestRate
 31,26282.21,Auto,9,10903,3.51
 32,40432.8,Mortgage,1387,11702,4.29
 33,49124.49,Auto,1040,4206,5.58
-119,39458.35,Auto,1040,3354,4.59
 34,48233.91,Personal,1433,10312,4.7
 35,5710.02,Mortgage,1428,9932,5.45
 37,35193.83,Mortgage,383,3539,1.85
@@ -69,7 +68,6 @@ loan_id,LoanAmount,LoanType,StartDate_ID,EndDate_ID,InterestRate
 84,25100.13,Mortgage,496,9803,7.29
 86,41527.61,Personal,248,4382,5.85
 87,15916.26,Mortgage,408,7897,6.87
-111,13231.5,Auto,408,3528,5.89
 88,46270.1,Personal,1139,3982,6.0
 89,36110.97,Mortgage,881,4116,6.9
 90,25453.13,Mortgage,937,2375,5.76
@@ -86,6 +84,7 @@ loan_id,LoanAmount,LoanType,StartDate_ID,EndDate_ID,InterestRate
 108,7941.64,Mortgage,1442,4525,2.2
 109,47272.64,Personal,462,3190,5.35
 110,36095.18,Personal,18,6399,4.43
+111,13231.5,Auto,408,3528,5.89
 112,34771.89,Mortgage,251,4246,6.08
 113,14765.02,Personal,873,4600,4.49
 114,14372.77,Auto,657,3279,3.14
@@ -93,6 +92,7 @@ loan_id,LoanAmount,LoanType,StartDate_ID,EndDate_ID,InterestRate
 116,37566.46,Personal,768,9411,6.78
 117,39006.44,Mortgage,1276,7364,6.79
 118,41497.68,Mortgage,1308,8302,4.26
+119,39458.35,Auto,1040,3354,4.59
 120,34275.16,Mortgage,1243,5766,4.38
 121,40181.66,Mortgage,1458,5332,3.54
 122,11369.33,Personal,1356,8117,4.66
